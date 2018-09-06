@@ -1,11 +1,11 @@
 ## Welcome to GitHub Pages
 
-# Coloured _Black_ and _Gold_
-- The Purdue colours are my favourite colours. (Destiny works magic, eh?)
-- The diversity is amazing. I have friends from **almost** every continent. (Antarctica people hit me up!)
-- Purdue is helping me learn how to adult :')
-- The academics and recreation are well-balanced. (It's tuff but woof ruff ruff) _Yes, I'm actually a happy pupper_
-- The campus is more beautiful than I'd ever expected it to be!
+# Shania Sinha's first CS193 Lab
+- CS193 is nice
+- It helps me be less stupid in the Computer Science stuff
+- It'll teach me how to talk and walk like a cool Computer Scientist who is well versed in memes (hopefully :D)
+- **_I like it_**
+- CS193 will help me do a lot more computer sciency stuff ( same point but different words ;> )
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
